@@ -1,5 +1,14 @@
 # @onebots/adapter-teams
 
+## 3.0.13
+
+### Patch Changes
+
+- Updated dependencies [cc0ad2e]
+- Updated dependencies [6264429]
+- Updated dependencies [2889519]
+  - onebots@1.2.13
+
 ## 3.0.12
 
 ### Patch Changes
